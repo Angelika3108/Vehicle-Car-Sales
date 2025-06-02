@@ -10,8 +10,8 @@ Analysis of Vehicle Sales in USA 2014-2015 Kaggle dataset
 
 ### Monthly sales of Top 10 brands by revenue
 
-![monthly](output/MonthlySalesTop10brands.jpg.jpg)
+![monthly](output/MonthlySalesTop10brands.jpg)
 
 ### Top 10 brands by quantity selled
 
-![top10quantity](output/Top10brandsbyquantity.jpg.jpg)
+![top10quantity](output/Top10brandsbyquantity.jpg)
