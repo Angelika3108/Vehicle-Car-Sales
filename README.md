@@ -20,7 +20,7 @@ We can only find out which vehicle's characteristics are more popular with buyer
 
 ![modelrev](output/model_rev.png)
 
-![yearrev](output/output/year_revenue.png)
+![yearrev](output/year_revenue.png)
 
 
 
